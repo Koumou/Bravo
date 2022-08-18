@@ -21,7 +21,7 @@
       "properties": {
         "packageId": "com.UWCEduhance.TeamBravo",
         "split": "",
-        "minSdkVersion": "22"
+        "minSdkVersion": "27"
       }
     }
   ]
